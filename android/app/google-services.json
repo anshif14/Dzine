@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144624772003",
+    "project_id": "xfashion-e6a06",
+    "storage_bucket": "xfashion-e6a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144624772003:android:548b90c2cd7183ae08b016",
+        "android_client_info": {
+          "package_name": "com.example.xfashion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTurVvM7zZ6Kvu81T2xoKu_5E-Ah8s5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
