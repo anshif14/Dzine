@@ -45,6 +45,9 @@ dependencies:
   cached_network_image: ^3.3.1
   flutter_svg: ^2.0.10+1
   flutter_riverpod: ^2.5.1
+  firebase_auth: ^4.19.5
+  pinput: ^4.0.0
+  image_picker: ^1.1.1
 
 dev_dependencies:
   flutter_test:
